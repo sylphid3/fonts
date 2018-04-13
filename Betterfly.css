@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Betterfly';
+    src: url('Betterfly Smooth.eot');
+    src: url('Betterfly Smooth.eot?#iefix') format('embedded-opentype'),
+         url('Betterfly Smooth.woff') format('woff'),
+         url('Betterfly Smooth.ttf') format('truetype'),
+         url('Betterfly Smooth.svg#Betterfly Smooth') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
