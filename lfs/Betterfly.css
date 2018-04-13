@@ -1,11 +1,10 @@
 @font-face {
     font-family: 'Betterfly';
-    src: url('Betterfly Smooth.eot');
-    src: url('Betterfly Smooth.eot?#iefix') format('embedded-opentype'),
-         url('Betterfly Smooth.woff') format('woff'),
-         url('Betterfly Smooth.ttf') format('truetype'),
-         url('Betterfly Smooth.svg#Betterfly Smooth') format('svg');
+    src: url('https://cdn.rawgit.com/sylphid3/fonts/master/lfs/Betterfly%20Smooth.eot');
+    src: url('https://cdn.rawgit.com/sylphid3/fonts/master/lfs/Betterfly%20Smooth.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/sylphid3/fonts/master/lfs/Betterfly%20Smooth.woff') format('woff'),
+         url('https://cdn.rawgit.com/sylphid3/fonts/master/lfs/Betterfly%20Smooth.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/sylphid3/fonts/master/lfs/Betterfly%20Smooth.svg#Betterfly Smooth') format('svg');
     font-weight: normal;
     font-style: normal;
 }
-
