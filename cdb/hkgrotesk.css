@@ -2,24 +2,24 @@
 
 @font-face {
     font-family: 'HK Grotesk bold';
-    src: url('https://gitcdn.link/repo/sylphid3/fonts/master/cdb/hkgrotesk-bold-webfont.woff2') format('woff2'),
-         url('https://gitcdn.link/repo/sylphid3/fonts/master/cdb/hkgrotesk-bold-webfont.woff') format('woff');
+    src: url('https://rawcdn.githack.com/sylphid3/fonts/master/cdb/hkgrotesk-bold-webfont.woff2') format('woff2'),
+         url('https://rawcdn.githack.com/sylphid3/fonts/master/cdb/hkgrotesk-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'HK Grotesk medium';
-    src: url('https://gitcdn.link/repo/sylphid3/fonts/master/cdb/hkgrotesk-medium-webfont.woff2') format('woff2'),
-         url('https://gitcdn.link/repo/sylphid3/fonts/master/cdb/hkgrotesk-medium-webfont.woff') format('woff');
+    src: url('https://rawcdn.githack.com/sylphid3/fonts/master/cdb/hkgrotesk-medium-webfont.woff2') format('woff2'),
+         url('https://rawcdn.githack.com/sylphid3/fonts/master/cdb/hkgrotesk-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'HK Grotesk';
-    src: url('https://gitcdn.link/repo/sylphid3/fonts/master/cdb/hkgrotesk-regular-webfont.woff2') format('woff2'),
-         url('https://gitcdn.link/repo/sylphid3/fonts/master/cdb/hkgrotesk-regular-webfont.woff') format('woff');
+    src: url('https://github.com/sylphid3/fonts/blob/master/cdb/hkgrotesk-regular-webfont.woff2') format('woff2'),
+         url('https://rawcdn.githack.com/sylphid3/fonts/master/cdb/hkgrotesk-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
