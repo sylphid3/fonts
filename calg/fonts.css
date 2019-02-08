@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: 'Learning curve pro';
-    src: url('learningcurve_ot-webfont.woff2') format('woff2'),
-         url('learningcurve_ot-webfont.woff') format('woff');
+    src: url('https://rawcdn.githack.com/sylphid3/fonts/e0d2047220f6e0206b17853bdd0531517210df24/calg/learningcurve_ot-webfont.woff2') format('woff2'),
+         url('https://rawcdn.githack.com/sylphid3/fonts/e0d2047220f6e0206b17853bdd0531517210df24/calg/learningcurve_ot-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
